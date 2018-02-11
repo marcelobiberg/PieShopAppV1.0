@@ -1,0 +1,15 @@
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\obj\Debug\netcoreapp2.0\PieApp.Resources.HomeController.pt-BR.resources
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\obj\Debug\netcoreapp2.0\PieApp.csproj.GenerateResource.Cache
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\obj\Debug\netcoreapp2.0\PieApp.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\obj\Debug\netcoreapp2.0\PieApp.AssemblyInfoInputs.cache
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\obj\Debug\netcoreapp2.0\PieApp.AssemblyInfo.cs
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\obj\Debug\netcoreapp2.0\PieApp.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\bin\Debug\netcoreapp2.0\PieApp.deps.json
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\bin\Debug\netcoreapp2.0\PieApp.runtimeconfig.json
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\bin\Debug\netcoreapp2.0\PieApp.runtimeconfig.dev.json
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\bin\Debug\netcoreapp2.0\PieApp.dll
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\bin\Debug\netcoreapp2.0\PieApp.pdb
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\bin\Debug\netcoreapp2.0\pt-BR\PieApp.resources.dll
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\obj\Debug\netcoreapp2.0\pt-BR\PieApp.resources.dll
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\obj\Debug\netcoreapp2.0\PieApp.dll
+C:\Users\Marcelo Biberg\Desktop\BigProject\PieApp\PieApp\obj\Debug\netcoreapp2.0\PieApp.pdb

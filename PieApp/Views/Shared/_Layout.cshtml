@@ -1,0 +1,53 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+<!DOCTYPE html>
+<html>
+
+@inject SignInManager<IdentityUser> signInManager
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <!--chama os css do contente site.css e bootstrap defaul-->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/Content/site.css" />
+    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+
+</head>
+
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a asp-controller="Home" asp-action="Index" class="navbar-brand">Mr. Cake Ninja</a></li>
+                    <li><a asp-controller="Feedback" asp-action="Index" class="navbar-brand">Feedback</a></li>
+                </ul>
+                @if (signInManager.IsSignedIn(User))
+                {
+                    <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" class="navbar-right" id="logoutform">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="javascript:document.getElementById('logoutform').submit()">Sair</a></li>
+                        </ul>
+                    </form>
+                }
+                else
+                {
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a id="registerLink" asp-controller="Account" asp-action="Register" class="navbar-brand">Registrar</a></li>
+                        <li><a id="loginLink" asp-controller="Account" asp-action="Login" class="navbar-brand">Logar</a></li>
+                    </ul>
+                }
+
+            </div>
+        </div>
+    </nav> 
+
+    <div class="container body-content">
+        <div class="row">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+
+</html>
