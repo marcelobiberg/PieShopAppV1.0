@@ -5,8 +5,11 @@ APP DEMO, SIMPLE BASIC PIE SHOP
 BASIC: ======================================= 
 
 ASP.NET CORE 2.0
+
 EF CORE
+
 EF IDENTITY AND AUTHORIZATION
+
 VISUAL STUDIO 2017 
 
 LOGIN: =======================================
