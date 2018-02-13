@@ -2,35 +2,23 @@
 APP DEMO, SIMPLE BASIC PIE SHOP
 
 
-BASIC: ======================================= 
-
+BASIC:  
 ASP.NET CORE 2.0
-
 EF CORE
-
 EF IDENTITY AND AUTHORIZATION
 
-VISUAL STUDIO 2017 
-
-LOGIN: =======================================
-
+LOGIN: 
 _SIGNINMANAGER
-
 _USERMANAGER
 
-EXTENSIONS: =======================================
-
+EXTENSIONS: 
 OPEN COMMAND LINE: TO ADD MIGRATIONS AND UPDATE-DATEBASE, SYNC MODEL DOMAIN WITH DATA BASE
-
 GITHUB EXTENSIONS FOR VISUAL STUIDO 2017: TO COMMIT ON GITHUB REPOSITORY, EASIEST WAY!!!
 
-
-FRONT-END: =======================================
-
+FRONT-END: 
 BOOTSTRAP 3.3.7 (DEPENDENCY JQUERY 3.3.1)
 
-IMAGENS: =======================================
-
+IMAGENS: 
 PLURALSIGHT
 
 
